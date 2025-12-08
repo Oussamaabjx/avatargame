@@ -1,6 +1,6 @@
 {
   "mode": 0,
   "game": "https://www.gamenora.com/embed/toca-life-world",
-  "wallpapers0": "https://cdn.jsdelivr.net/gh/Oussamaabjx/wallpapers@main/wallpapers.json",
+  "wallpapers": "https://cdn.jsdelivr.net/gh/Oussamaabjx/wallpapers@main/wallpapers.json",
   "ads": 40
 }
